@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 * 팀의 목적과 유저 특성을 고려한 사용성 테스트 설계, 지표 개선 경험
 * 목적 중심 TF 팀과의 협업을 통한 서비스 플로우 설계, 와이어프레임 제작 능력
 
-#### ⚡️ Here are my fun facts...
+#### ⚡️ Here is my fun fact...
   * Before being a Frontend Developer, I was UXUI designer.
 
 🔭 Translating Developer Docs at [Mediom](https://medium.com/@juicy_joji). </br>

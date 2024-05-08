@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   * Before being a Frontend Developer, I was UXUI designer.
 
 🔭 Translating Developer Docs at [Mediom](https://medium.com/@juicy_joji). </br>
-📫 How to reach me: juicy_joji@likelion.org 
+📫 How to reach me: juicy_joji@yu.ac.kr 
 
 
 

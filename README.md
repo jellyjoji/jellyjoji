@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=blue"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=pink"><img src="https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/react-router-CA4245?style=for-the-badge&logo=react-router&logoColor=black"><img src="https://img.shields.io/badge/pocketbase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black"><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
 
 #### 👩🏻‍💻 I have experienced...
+
+* UI Development using HTML, CSS, Javascript, React and Next.js 
+* Web development experience using REST API
+* Experienced building design systems
+* Capable of making prototypes and efficient UX flows
+* Designed usability tests considering the team's purpose and user characteristics
+* Collaborated with purpose-oriented TF team for designing service flows and producing wireframes
+
 * JavaScript, ES6 표준 스펙을 활용한 개발 경험
 * HTML, CSS, JavaScript, React, Next.js 를 활용한 UI 개발
 * REST API를 활용한 Web 개발 경험
@@ -33,13 +41,6 @@ Here are some ideas to get you started:
 * 빠르고 효율적인 UX 플로우, 프로토타입 제작 역량
 * 팀의 목적과 유저 특성을 고려한 사용성 테스트 설계, 지표 개선 경험
 * 목적 중심 TF 팀과의 협업을 통한 서비스 플로우 설계, 와이어프레임 제작 능력
-
-* UI Development using HTML, CSS, Javascript, React and Next.js 
-* Web development experience using REST API
-* Experienced building design systems
-* Capable of making prototypes and efficient UX flows
-* Designed usability tests considering the team's purpose and user characteristics
-* Collaborated with purpose-oriented TF team for designing service flows and producing wireframes
 
 #### ⚡️ Here is my fun fact...
   * Before being a Frontend Developer, I was UXUI designer.
